@@ -16,4 +16,4 @@ promedio = suma/3
 ## Mostrar
 promedio
 
-'Fin'
+*Fin*
